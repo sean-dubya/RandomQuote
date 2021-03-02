@@ -1,0 +1,44 @@
+/* With help from FCC */
+* {
+   margin: 0;
+   padding: 0;
+   vertical-align: baseline;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div {
+   position: relative;
+}
+
+body {
+   background-color: #333;
+   color: #333;
+}
+
+#quote-box {
+   padding: 3rem;
+   background-color: azure;
+}
+
+#text-box, #author-box {
+   padding-bottom: 2rem;
+}
+
+#text {
+   font-size: x-large;
+   font-weight: bold;
+}
+
+#text-box > i {
+   font-size: small;
+}
+
+#new-quote {
+   background-color: #333;
+   color: azure;
+}
+
+#tweet-button {
+   background-color: #333;
+   color: azure
+}
